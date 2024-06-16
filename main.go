@@ -16,7 +16,7 @@ func main() {
 	}
 
 	// Parse the template file
-	tmpl, err := template.ParseFiles("text/README.tmpl")
+	tmpl, err := template.ParseFiles("text/README.tmpl.html")
 	if err != nil {
 		panic(err)
 	}
