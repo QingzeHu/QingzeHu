@@ -11,5 +11,16 @@
 <p>Welcome to my page!</p>
 <p>I'm Qingze. Full stack development engineer from 🇨🇳Shanghai, China, currently living in 🇺🇸 Austin, TX, US.</p>
 
+<p>
+  <img src="https://stats-cards-qingzehus-projects.vercel.app/api?username=qingzehu&show_icons=true&hide_border=true" alt="Qingze's Github Stats" width="58%" />
+  <img src="https://stats-cards-qingzehus-projects.vercel.app/api/top-langs/?username=qingzehu&layout=compact&hide_border=true&langs_count=10" alt="Qingze's Top Langs" width="37%" /> 
+</p>
+
+<a href="https://github.com/qingzehu/stats-cards">
+<p>
+  <img src="https://stats-cards-qingzehus-projects.vercel.app/api/leetcode/?username=qingzehu&theme=light" alt="Qingze's LeetCode Stats" width="49%" />
+</p>
+</a>
+
 </body>
 </html>
