@@ -28,7 +28,7 @@
     </p>
     <p>
       <img src="https://stats-cards-git-master-qingzehus-projects.vercel.app/api/steam?theme=light"
-        alt="Qingze's Steam Stats" width="50%" />
+        alt="Qingze's Steam Stats" width="49%" />
     </p>
   </a>
   </a>
