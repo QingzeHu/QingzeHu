@@ -31,7 +31,6 @@
         alt="Qingze's Steam Stats" width="49%" />
     </p>
   </a>
-  </a>
 
 </body>
 
