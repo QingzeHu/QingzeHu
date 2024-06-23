@@ -25,6 +25,8 @@
     <p>
       <img src="https://stats.justsong.cn/api/leetcode?username=qingzeinus&cn_username=qingzeinus&theme=light"
         alt="Qingze's LeetCode Stats" width="49%" />
+      <img src="https://stats-cards-git-master-qingzehus-projects.vercel.app/api/steam?theme=light"
+        alt="Qingze's Steam Stats" width="49%" />
     </p>
   </a>
 
